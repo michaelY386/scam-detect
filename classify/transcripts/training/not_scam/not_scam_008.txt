@@ -1,0 +1,9 @@
+I would like to know if people here have the same problems with this technology as I do. I haven't looked for
+problems filled about it yet, but these issues have been annoying for time enough to put me wondering if I'am the only who has been
+facing them.
+
+I've had other weird problems with the collection (like missing albums) after an upgrade. This was due to database
+corruption, and the fix was to destroy the database.
+
+In my experience it's probably better to use something else because it's faster. Anyhow, it still 
+happens that the changes you make to the tracks and albums don't show immediately

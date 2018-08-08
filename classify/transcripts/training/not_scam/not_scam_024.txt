@@ -1,0 +1,12 @@
+They aren't selling the software, which is pretty pricy as
+it happens.  They are using it to optimize next generation
+wireless canopies over metro areas and fiber networks on a
+large scale.  There are an essentially infinite number of metro
+wireless configurations, some of which generate far more dead
+or marginal spots and others which are very expensive to
+operate (due to backhaul transit considerations) or both.  This
+software can be used as a tool to optimize the canopy coverage
+and minimize the actual transit costs since the wireless is
+tied into fiber at multiple points.
+
+So you only need to map a handful of metropolitan areas?

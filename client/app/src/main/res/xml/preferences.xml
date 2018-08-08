@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="General"
+        android:key="general_category">
+
+        <CheckBoxPreference
+            android:key="perform_sync"
+            android:summary="Enable Alert to Reviewers"
+            android:title="Enable Alert"
+            android:defaultValue="true"/>
+
+        <CheckBoxPreference
+            android:key="record_save"
+            android:summary="Automatically save history/records locally"
+            android:title="Save Records"
+            android:defaultValue="true"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Personal Informations"
+        android:key="personal_category">
+
+
+        <EditTextPreference
+            android:key="full_name"
+            android:title="Name"
+            android:summary="Enter Your Complete Name"
+            android:dialogTitle="Your Name"
+            android:dialogMessage="Enter Your Complete Name"
+            android:defaultValue="Name"
+            android:inputType="textCapWords"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Customisations"
+        android:key="custom_category">
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

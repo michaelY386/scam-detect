@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Scam Detector</string>
+    <string name="action_settings">Settings</string>
+    <string name="channel_name">EPS Scams</string>
+    <string name="channel_description">Notifications related to EPS scams</string>
+
+    <string name="title_activity_main">Scam Detector</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_scanner">ScannerActivity</string>
+    <string name="history_page">History</string>
+    <string name="title_activity_profile">My Profile</string>
+    <string name="title_login">Login</string>
+    <string name="friend_list">Friends</string>>
+
+    <string name="title_activity_settings">Settings</string>
+
+
+    <string name="enable_alert">Enable Alert to Reviewers</string>
+    <string name="pref_discoverable">Make me discoverable by others</string>
+    <string name="pref_notify_messages">Message Notifications</string>
+    <string name="network_access">Network Access</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="allow">Allow</string>
+    <string name="block">Block</string>
+
+
+</resources>
